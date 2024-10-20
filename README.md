@@ -1,4 +1,4 @@
-My School Projects
+<h1> My School Projects
 This repository contains a collection of my early projects that sparked my interest in coding and helped me grow as a developer. Each project has played a significant role in shaping my understanding of programming, problem-solving, and project management.
 
 1. Fruit Shop (My First Project)
