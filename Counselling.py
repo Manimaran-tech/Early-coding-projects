@@ -1,5 +1,5 @@
 import mysql.connector
-conn=mysql.connector.connect(host='localhost',password='mani123',user='root',database='counselling')
+conn=mysql.connector.connect(host='localhost',password='password',user='root',database='counselling')
 cur=conn.cursor()
 
 def intro():
@@ -160,3 +160,4 @@ conn.close()
     
 
     
+
